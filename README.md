@@ -6,5 +6,4 @@ A simple Chatroom built in C programming language. The program has two files - <
 Just simply run the Makefile using this command. <br/>
 $ make Makefile compile
 
-# YouTube Video Tutorial
-[https://youtu.be/fNerEo6Lstw](https://youtu.be/fNerEo6Lstw)
+
